@@ -61,10 +61,3 @@ hr{
         height: auto;
     }
 }
-
-@media screen and (max-width: 420px) {
-    .locationServed img{
-        width: 285px;
-        height: auto;
-    }
-}
